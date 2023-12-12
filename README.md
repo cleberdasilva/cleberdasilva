@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cleberdasilva
 - 👀 I’m interested in programming languages and algorithms
-- 🌱 I’m currently learning React and Java
+- 🌱 I’m currently Working with Java and SpringBoot
+- 🌱 I´m currently learning more and more abou Java and NodeJS
 - 💞️ I’m looking to collaborate on mobile projects
 - 📫 How to reach me at:clebersinf@gmail.com
 
